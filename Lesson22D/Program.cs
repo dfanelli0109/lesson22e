@@ -66,9 +66,9 @@ static void Main()
     int result = prog.AddTwoNumbers(x, y); // call non-static method
 
     Console.WriteLine(result); // output: 30
+            
 
-
-    // Call the static method named MultiplytTwoNumbers
+    // dfdfdCall the static method named MultiplytTwoNumbers
     // passing in the two int values of 3 and 4. Then
     // assign the result to a local variable named product and
     // display the resulting value of product in console output.
